@@ -68,7 +68,7 @@ Planned improvements include:
 ```bash
 npm install
 
-### 2. Start the Expo development server
+**### 2. Start the Expo development server**
 
 ```bash
 npx expo start
