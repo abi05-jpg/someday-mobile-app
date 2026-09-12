@@ -63,15 +63,17 @@ Planned improvements include:
 
 ## Running the Project
 
-### 1. Install dependencies:
+### 1. Install dependencies
 
 ```bash
 npm install
+```
 
-**### 2. Start the Expo development server**
+### 2. Start the Expo development server
 
 ```bash
 npx expo start
+```
 
 This will start the Expo development server and display options for running the application.
 
@@ -84,6 +86,6 @@ You can open the app using:
 
 ## Status
 
-🚧 Active Development
+🚧 **Active Development**
 
 Someday is currently under active development. More features and improvements will be added as the project progresses.
